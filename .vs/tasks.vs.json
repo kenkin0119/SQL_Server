@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "工作-23View",
+      "appliesTo": "SQL Server 指令碼1/23View.sql",
+      "type": "launch"
+    }
+  ]
+}

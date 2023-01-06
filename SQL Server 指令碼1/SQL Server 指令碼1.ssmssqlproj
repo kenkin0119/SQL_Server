@@ -26,52 +26,214 @@
           <FullPath>01select.sql</FullPath>
         </FileNode>
         <FileNode Name="02select_2.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>02select_2.sql</FullPath>
         </FileNode>
         <FileNode Name="03select_3.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>03select_3.sql</FullPath>
         </FileNode>
         <FileNode Name="04select_4.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>04select_4.sql</FullPath>
         </FileNode>
         <FileNode Name="05select_5.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>05select_5.sql</FullPath>
         </FileNode>
-        <FileNode Name="06select_6.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+        <FileNode Name="06select_6_count.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>06select_6.sql</FullPath>
+          <FullPath>06select_6_count.sql</FullPath>
         </FileNode>
-        <FileNode Name="07_select_innerJoin.sql">
+        <FileNode Name="07select_innerJoin.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>07_select_innerJoin.sql</FullPath>
+          <FullPath>07select_innerJoin.sql</FullPath>
         </FileNode>
         <FileNode Name="08select_innerjoin.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>08select_innerjoin.sql</FullPath>
         </FileNode>
         <FileNode Name="09select_Outerjoin.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09select_Outerjoin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10select_Outerjoin2.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>09select_Outerjoin.sql</FullPath>
+          <FullPath>10select_Outerjoin2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11Select_Set.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11Select_Set.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12Select_SubQuery.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12Select_SubQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13Select_Others.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13Select_Others.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14CTE查詢.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14CTE查詢.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15Insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15Insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16Update.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16Update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17Delete.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17Delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19DDL-1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19DDL-1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20DDL-2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20DDL-2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21DDL-3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>21DDL-3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22DDL-4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22DDL-4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23View.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23View.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24T-SQL-1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24T-SQL-1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25T-SQL-2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25T-SQL-2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26T-SQL-3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>26T-SQL-3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27T-SQL-4.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>27T-SQL-4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28T-SQL-5.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>28T-SQL-5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29StoredProcedure-1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>29StoredProcedure-1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30StoredProcedure-2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30StoredProcedure-2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31pivot.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>31pivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32Function.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>32Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33Function-2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>33Function-2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="34Function-3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>34Function-3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HW.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>HW.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HW3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>HW3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Merge.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-33:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-33</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Merge.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
